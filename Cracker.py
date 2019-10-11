@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 # Author: Brad Roberts
 
+# This was made for educational purposes only.
+# As in, I literally made this for a class and thought it was cool...
+
 # TODO:
 # 1. This can easily be multi-threaded in several ways
 # 2. Prolly should error check
